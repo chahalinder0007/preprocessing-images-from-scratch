@@ -1,0 +1,2 @@
+# preprocessing-images-from-scratch
+The project covers the deficit that exist in the online available resources in data science for beginners, whereby the existing models work just fine on well prepared mnist, fashion-mnist etc datasets but often students find it difficult to achieve the kind of accuracy for their own datasets. The project intends to cover simple methods to generate a good dataset from different images obtained from any sources.  
