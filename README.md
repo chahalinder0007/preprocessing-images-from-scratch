@@ -15,3 +15,12 @@ Requirements: although the requirements have been taken care of as the script wi
 
 The best suggested method is to use a jupyter notebook to open the mainn.ipynb file. it will execute all the required files. The files are assumed to be mnist type where each image is placed in a directory which is its label.
 
+
+
+
+
+
+
+
+
+P.S. You are free to use the entire project in whatever way you deem fit, you must do your own due diligence before implementing it for any comercial implementation as I will not be liable for any defects, bugs etc that may cause any financial or any other kind of loss to the extent permitted by law. The project utilises popular open-source liabraries.
